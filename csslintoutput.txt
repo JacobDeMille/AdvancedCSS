@@ -1,0 +1,327 @@
+
+zen_garden.css
+   1:38   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+   2:98   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+   3:46   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+   4:107  ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+   5:102  ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+   7:102  ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+  10:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  11:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  12:2    ×  Expected indentation of 0 spaces                                 indentation                                  
+  13:1    ×  Expected empty line before rule                                  rule-empty-line-before                       
+  13:7    ×  Expected newline after "{" of a multi-line block                 block-opening-brace-newline-after            
+  13:7    ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+  14:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  15:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  16:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  16:17   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+  16:17   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+  17:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  17:88   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+  17:88   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+  18:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  18:12   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+  18:12   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+  19:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  20:2    ×  Expected indentation of 0 spaces                                 indentation                                  
+  21:1    ×  Expected empty line before rule                                  rule-empty-line-before                       
+  21:4    ×  Expected newline after "{" of a multi-line block                 block-opening-brace-newline-after            
+  21:4    ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+  22:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  22:16   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+  22:16   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+  23:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  24:2    ×  Expected indentation of 0 spaces                                 indentation                                  
+  25:1    ×  Expected empty line before rule                                  rule-empty-line-before                       
+  25:5    ×  Expected newline after "{" of a multi-line block                 block-opening-brace-newline-after            
+  25:5    ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+  26:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  27:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  27:22   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+  27:22   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+  28:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  28:19   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+  28:19   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+  29:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  29:9    ×  Expected "#7D775C" to be "#7d775c"                               color-hex-case                               
+  30:2    ×  Expected indentation of 0 spaces                                 indentation                                  
+  31:1    ×  Expected empty line before rule                                  rule-empty-line-before                       
+  31:9    ×  Expected newline after "{" of a multi-line block                 block-opening-brace-newline-after            
+  31:9    ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+  32:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  32:20   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+  32:20   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+  33:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  33:24   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+  33:24   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+  34:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  34:9    ×  Expected "#B7A5DF" to be "#b7a5df"                               color-hex-case                               
+  35:2    ×  Expected indentation of 0 spaces                                 indentation                                  
+  36:1    ×  Expected empty line before rule                                  rule-empty-line-before                       
+  36:12   ×  Expected newline after "{" of a multi-line block                 block-opening-brace-newline-after            
+  36:12   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+  37:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  37:20   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+  37:20   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+  38:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  38:24   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+  38:24   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+  39:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  39:9    ×  Expected "#D4CDDC" to be "#d4cddc"                               color-hex-case                               
+  40:2    ×  Expected indentation of 0 spaces                                 indentation                                  
+  41:1    ×  Expected empty line before rule                                  rule-empty-line-before                       
+  41:8    ×  Expected newline after ","                                       selector-list-comma-newline-after            
+  41:17   ×  Expected newline after ","                                       selector-list-comma-newline-after            
+  41:29   ×  Expected newline after "{" of a multi-line block                 block-opening-brace-newline-after            
+  41:29   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+  42:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  42:29   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+  42:29   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+  43:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  43:9    ×  Expected "#9685BA" to be "#9685ba"                               color-hex-case                               
+  44:2    ×  Expected indentation of 0 spaces                                 indentation                                  
+  45:1    ×  Expected empty line before rule                                  rule-empty-line-before                       
+  46:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  47:2    ×  Expected indentation of 0 spaces                                 indentation                                  
+  49:1    ×  Expected no more than 1 empty line                               max-empty-lines                              
+  51:16   ×  Expected newline after "{" of a multi-line block                 block-opening-brace-newline-after            
+  51:16   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+  52:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  52:77   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+  52:77   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+  53:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  53:27   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+  53:28   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+  54:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  54:12   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+  54:12   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+  55:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  56:2    ×  Expected indentation of 0 spaces                                 indentation                                  
+  58:9    ×  Expected newline after "{" of a multi-line block                 block-opening-brace-newline-after            
+  58:9    ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+  59:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  60:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  61:2    ×  Expected indentation of 0 spaces                                 indentation                                  
+  63:12   ×  Expected newline after "{" of a multi-line block                 block-opening-brace-newline-after            
+  63:12   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+  64:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  65:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  66:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  67:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  68:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  69:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  70:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  71:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  72:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  73:2    ×  Expected indentation of 0 spaces                                 indentation                                  
+  74:1    ×  Expected empty line before rule                                  rule-empty-line-before                       
+  74:12   ×  Expected newline after "{" of a multi-line block                 block-opening-brace-newline-after            
+  74:12   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+  75:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  75:85   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+  75:85   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+  76:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  76:19   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+  76:19   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+  77:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  77:22   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+  77:22   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+  78:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  78:15   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+  78:15   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+  79:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  79:15   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+  79:15   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+  80:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  81:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  82:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  83:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  84:2    ×  Expected indentation of 0 spaces                                 indentation                                  
+  85:1    ×  Expected empty line before rule                                  rule-empty-line-before                       
+  86:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  87:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  91:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  91:14   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+  91:14   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+  92:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  92:30   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+  92:30   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+  93:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  93:15   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+  93:15   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+  94:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  95:2    ×  Expected indentation of 0 spaces                                 indentation                                  
+  96:1    ×  Expected empty line before rule                                  rule-empty-line-before                       
+  97:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  97:25   ×  Unexpected missing generic font family                           font-family-no-missing-generic-family-keyword
+  97:33   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+  97:33   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+  98:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+  99:2    ×  Expected indentation of 0 spaces                                 indentation                                  
+ 102:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 102:15   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+ 102:15   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+ 103:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 103:12   ×  Unexpected unit                                                  length-zero-no-unit                          
+ 104:2    ×  Expected indentation of 0 spaces                                 indentation                                  
+ 105:1    ×  Expected empty line before rule                                  rule-empty-line-before                       
+ 105:14   ×  Expected newline after "{" of a multi-line block                 block-opening-brace-newline-after            
+ 105:14   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+ 106:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 106:21   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+ 106:21   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+ 107:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 108:2    ×  Expected indentation of 0 spaces                                 indentation                                  
+ 110:9    ×  Expected newline after "{" of a multi-line block                 block-opening-brace-newline-after            
+ 110:9    ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+ 111:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 111:21   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+ 112:1    ×  Expected newline before "}" of a multi-line block                block-closing-brace-newline-before           
+ 112:2    ×  Expected indentation of 0 spaces                                 indentation                                  
+ 113:1    ×  Expected empty line before rule                                  rule-empty-line-before                       
+ 113:14   ×  Expected newline after ","                                       selector-list-comma-newline-after            
+ 113:34   ×  Expected newline after "{" of a multi-line block                 block-opening-brace-newline-after            
+ 113:34   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+ 114:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 114:21   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+ 115:1    ×  Expected newline before "}" of a multi-line block                block-closing-brace-newline-before           
+ 115:2    ×  Expected indentation of 0 spaces                                 indentation                                  
+ 118:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 118:21   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+ 118:21   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+ 119:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 119:21   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+ 119:21   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+ 120:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 120:9    ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+ 120:9    ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+ 121:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 122:2    ×  Expected indentation of 0 spaces                                 indentation                                  
+ 123:1    ×  Expected empty line before rule                                  rule-empty-line-before                       
+ 123:20   ×  Expected newline after "{" of a multi-line block                 block-opening-brace-newline-after            
+ 123:20   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+ 124:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 124:33   ×  Expected newl
+    ine after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+ 124:33   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+ 125:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 125:90   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+ 125:90   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+ 126:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 126:16   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+ 126:16   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+ 127:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 127:20   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+ 127:20   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+ 128:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 128:15   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+ 129:1    ×  Expected newline before "}" of a multi-line block                block-closing-brace-newline-before           
+ 129:2    ×  Expected indentation of 0 spaces                                 indentation                                  
+ 130:1    ×  Expected empty line before rule                                  rule-empty-line-before                       
+ 130:21   ×  Expected newline after "{" of a multi-line block                 block-opening-brace-newline-after            
+ 130:21   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+ 131:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 131:85   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+ 131:85   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+ 132:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 132:23   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+ 132:23   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+ 133:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 133:14   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+ 133:14   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+ 134:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 134:15   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+ 134:15   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+ 136:2    ×  Unexpected empty line before declaration                         declaration-empty-line-before                
+ 136:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 137:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 138:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 139:2    ×  Expected indentation of 0 spaces                                 indentation                                  
+ 140:1    ×  Expected empty line before rule                                  rule-empty-line-before                       
+ 140:23   ×  Expected newline after "{" of a multi-line block                 block-opening-brace-newline-after            
+ 140:23   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+ 141:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 141:85   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+ 141:85   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+ 142:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 142:23   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+ 142:23   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+ 143:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 143:8    ×  Expected single space after ":" with a single-line declaration   declaration-colon-space-after                
+ 143:13   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+ 143:13   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+ 144:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 144:15   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+ 144:15   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+ 145:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 146:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 147:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 148:2    ×  Expected indentation of 0 spaces                                 indentation                                  
+ 149:1    ×  Expected empty line before rule                                  rule-empty-line-before                       
+ 149:24   ×  Expected newline after "{" of a multi-line block                 block-opening-brace-newline-after            
+ 149:24   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+ 150:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 150:85   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+ 150:85   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+ 151:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 151:23   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+ 151:23   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+ 152:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 152:8    ×  Expected single space after ":" with a single-line declaration   declaration-colon-space-after                
+ 152:13   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+ 152:13   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+ 153:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 153:15   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+ 153:15   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+ 154:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 155:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 156:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 157:2    ×  Expected indentation of 0 spaces                                 indentation                                  
+ 159:1    ×  Expected no more than 1 empty line                               max-empty-lines                              
+ 161:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 162:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 163:2    ×  Expected indentation of 0 spaces                                 indentation                                  
+ 164:1    ×  Expected empty line before rule                                  rule-empty-line-before                       
+ 165:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 165:21   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+ 165:21   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+ 166:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 166:88   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+ 166:88   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+ 167:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 167:17   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+ 167:17   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+ 168:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 168:19   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+ 168:19   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+ 169:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 170:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 171:2    ×  Expected indentation of 0 spaces                                 indentation                                  
+ 172:1    ×  Expected empty line before rule                                  rule-empty-line-before                       
+ 173:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 173:9    ×  Expected "#988F5E" to be "#988f5e"                               color-hex-case                               
+ 174:2    ×  Expected indentation of 0 spaces                                 indentation                                  
+ 175:1    ×  Expected empty line before rule                                  rule-empty-line-before                       
+ 176:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 176:9    ×  Expected "#B3AE94" to be "#b3ae94"                               color-hex-case                               
+ 177:2    ×  Expected indentation of 0 spaces                                 indentation                                  
+ 180:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 180:86   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+ 180:86   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+ 181:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 181:21   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+ 181:21   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+ 182:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 182:12   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+ 182:12   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+ 183:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 183:11   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+ 183:11   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+ 184:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 184:15   ×  Expected newline after ";" in a multi-line declaration block     declaration-block-semicolon-newline-after    
+ 184:15   ×  Unexpected whitespace at end of line                             no-eol-whitespace                            
+ 185:2    ×  Expected indentation of 2 spaces                                 indentation                                  
+ 186:2    ×  Unexpected missing end-of-source newline                         no-missing-end-of-source-newline             
+ 186:2    ×  Expected indentation of 0 spaces                                 indentation
+
