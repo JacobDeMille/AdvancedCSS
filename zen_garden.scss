@@ -186,13 +186,17 @@ abbr {
 
     grid-template-columns: auto auto auto auto;
     text-align: end;
-
+    
+    
+    
     &::before {
       content: url(images/landscape-orange-1.jpg);
+      
       float: none;
       display: grid;
       text-align: center;
       margin: 0 auto;
+      transition: text-align 2s;
     }
     @include MQ(1105px) {
       &::before {
@@ -212,6 +216,12 @@ abbr {
     grid-template-columns: auto auto auto auto;
     background-color: $color-2;
     border-radius: 10px;
+
+    &:hover {
+      &::after{ 
+        animation: beat 3s ease-in-out infinite;
+    }
+  }
 
     &::after {
       content: url(images/landscaepe-2.jpg);
@@ -322,4 +332,10 @@ footer a:visited {
   right: 0;
   width: 148px;
   height: 110px;
+}
+
+@keyframes beat {
+	0% { transform: scale(1); }
+  50% { transform: scale(1.15);}
+  100% { transform: scale(1); }
 }

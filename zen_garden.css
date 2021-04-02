@@ -166,6 +166,8 @@ abbr {
     display: grid;
     text-align: center;
     margin: 0 auto;
+    -webkit-transition: text-align 2s;
+    transition: text-align 2s;
   }
 }
 
@@ -186,6 +188,10 @@ abbr {
         grid-template-columns: auto auto auto auto;
     background-color: #54381a;
     border-radius: 10px;
+  }
+  .benefits:hover::after {
+    -webkit-animation: beat 3s ease-in-out infinite;
+            animation: beat 3s ease-in-out infinite;
   }
   .benefits::after {
     content: url(images/landscaepe-2.jpg);
@@ -294,5 +300,35 @@ footer a:visited {
   right: 0;
   width: 148px;
   height: 110px;
+}
+
+@-webkit-keyframes beat {
+  0% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+  50% {
+    -webkit-transform: scale(1.15);
+            transform: scale(1.15);
+  }
+  100% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+}
+
+@keyframes beat {
+  0% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+  50% {
+    -webkit-transform: scale(1.15);
+            transform: scale(1.15);
+  }
+  100% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
 }
 /*# sourceMappingURL=zen_garden.css.map */
