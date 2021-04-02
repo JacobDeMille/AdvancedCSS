@@ -8,6 +8,26 @@
 /* Your images should be linked as if the CSS file sits in the same folder as the images. ie. no paths. */
 
 
+// color palette - these colors will be the color swatches of the Colors section
+
+$color-1: #fad682; // Sun rise - Action color
+$color-2: #54381a; // Land 
+$color-3: #8ec1e8; // Sky 
+$color-4: #578017; // Nature 
+$color-5: #f7f7f7; // White Cloud 
+
+// additional colors
+
+$success: #6fce72; // green
+$alert: $color-3; // red
+
+// fonts
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Italianno&display=swap'); 
+//'Italianno', cursive;
+$primary-font: 'Cormorant Garamond', serif;
+$secondary-font: 'Italianno', cursive;
+
 /* basic elements */
 // Media Querie mix in to use and only have to define once
 @mixin MQ($size) {
@@ -28,33 +48,34 @@ html {
 
 body {
   display: block;
-  font: 75% georgia, sans-serif;
+  font-family: $primary-font;
   line-height: 1.88889;
   color: #555753;
   background: #fff url(http://csszengarden.com/001/blossoms.jpg) no-repeat bottom right;
   margin: 0;
   padding: 0;
-  border-style: dotted;
 }
 
 p {
   margin-top: 0;
   text-align: justify;
-  
+  color: $color-2;
 }
 
 h3 {
-  font: italic normal 1.4em georgia, sans-serif;
-  letter-spacing: 1px;
+  font-family: $secondary-font;
+  letter-spacing: 3px;
+  font-size: 2rem;
   margin-bottom: 0;
-  color: #7D775C;
+  color: $color-2;
 }
 
 a {
+  color: $color-2;
   :link {
     font-weight: bold;
     text-decoration: none;
-    color: #B7A5DF;
+    color: $color-1;
   }
 
   :visited {
@@ -90,9 +111,8 @@ abbr {
 .intro {
   display: grid;
   grid-template-columns: auto auto;
-
+  
   width: 100%;
-  border-style: dotted;
 
   @include MQ(600px) {
     display: flex;
@@ -103,7 +123,6 @@ abbr {
     grid-column: span 3;
     display: grid;
     grid-template-rows: auto auto;
-    border-style: dotted;
 
     @include MQ(600px) {
       display: flex;
@@ -136,17 +155,14 @@ abbr {
       overflow: hidden;
     }
   }
+  
 }
 
 .summary {
-  grid-column: span 3;
   clear: both;
   margin: 20px 20px 20px 20px;
-  width: 90%;
-  float: left;
 
   p {
-    font: italic 1.1em/2.2 georgia;
     text-align: center;
 
   }
@@ -169,11 +185,20 @@ abbr {
   @include MQ(768px) {
 
     grid-template-columns: auto auto auto auto;
+    text-align: end;
 
     &::before {
-      content: url(https://via.placeholder.com/250x150);
-      float: left;
-      margin-right: 1em;
+      content: url(images/landscape-orange-1.jpg);
+      float: none;
+      display: grid;
+      text-align: center;
+      margin: 0 auto;
+    }
+    @include MQ(1105px) {
+      &::before {
+        float: left;
+        margin-right: 1em;
+      }
     }
   }
 }
@@ -181,22 +206,30 @@ abbr {
 .benefits {
   @include MQ(768px) {
     width: 350px;
+    padding: 1rem;
     float: left;
     margin-right: 1em;
     grid-template-columns: auto auto auto auto;
+    background-color: $color-2;
+    border-radius: 10px;
 
     &::after {
-      content: url(http://placekitten.com/350/250);
+      content: url(images/landscaepe-2.jpg);
+      display: flex;
+      justify-content: center;
     }
 
     h3 {
       margin: 0;
+      color: $color-5;
+    }
+    p {
+      color: $color-5;
     }
   }
 }
 
 .supporting {
-  border-style: dotted;
   padding: .75em;
   margin: 1em;
 }
@@ -212,17 +245,19 @@ footer a:visited {
 
 .sidebar {
 
-  border-style: dotted;
+  background-image: url("images/landscaepe-3.jpg");
 
   .wrapper {
     font: 10px verdana, sans-serif;
     padding: 10px;
+    text-align: center;
   }
 
   h3 {
     .select {
       margin: 10px 0 5px 0;
       height: 16px;
+      color: $color-1;
 
       text-indent: 100%;
       white-space: nowrap;
@@ -267,18 +302,18 @@ footer a:visited {
     }
 
     a:link {
-      color: #988F5E;
+      color: $color-1;
     }
 
     a:visited {
-      color: #B3AE94;
+      color: $color-5;
     }
   }
 }
 
 .extra1 {
   display: none;
-  background: transparent url(http://csszengarden.com/001/cr2.gif) top left no-repeat;
+  background: transparent url() top left no-repeat;
   position: absolute;
   position: absolute;
   position: absolute;
