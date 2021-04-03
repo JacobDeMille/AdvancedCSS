@@ -23,10 +23,12 @@ $alert: $color-3; // red
 
 // fonts
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital@1&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Italianno&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Italianno&display=swap');
 //'Italianno', cursive;
-$primary-font: 'Cormorant Garamond', serif;
-$secondary-font: 'Italianno', cursive;
+$primary-font: 'Cormorant Garamond',
+serif;
+$secondary-font: 'Italianno',
+cursive;
 
 /* basic elements */
 // Media Querie mix in to use and only have to define once
@@ -72,6 +74,7 @@ h3 {
 
 a {
   color: $color-2;
+
   :link {
     font-weight: bold;
     text-decoration: none;
@@ -111,7 +114,7 @@ abbr {
 .intro {
   display: grid;
   grid-template-columns: auto auto;
-  
+
   width: 100%;
 
   @include MQ(600px) {
@@ -149,14 +152,14 @@ abbr {
       margin: 1em;
       width: 200px;
       height: 18px;
-      
+
 
       text-indent: 100%;
       white-space: nowrap;
       overflow: hidden;
     }
   }
-  
+
 }
 
 .summary {
@@ -187,18 +190,19 @@ abbr {
 
     grid-template-columns: auto auto auto auto;
     text-align: end;
-    
-    
-    
+
+
+
     &::before {
       content: url(images/landscape-orange-1.jpg);
-      
+
       float: none;
       display: grid;
       text-align: center;
       margin: 0 auto;
       transition: text-align 2s;
     }
+
     @include MQ(1105px) {
       &::before {
         float: left;
@@ -219,10 +223,10 @@ abbr {
     border-radius: 10px;
 
     &:hover {
-      &::after{ 
+      &::after {
         animation: beat 3s ease-in-out infinite;
+      }
     }
-  }
 
     &::after {
       content: url(images/landscaepe-2.jpg);
@@ -234,6 +238,7 @@ abbr {
       margin: 0;
       color: $color-5;
     }
+
     p {
       color: $color-5;
     }
@@ -336,7 +341,15 @@ footer a:visited {
 }
 
 @keyframes beat {
-	0% { transform: scale(1); }
-  50% { transform: scale(1.15);}
-  100% { transform: scale(1); }
+  0% {
+    transform: scale(1);
+  }
+
+  50% {
+    transform: scale(1.15);
+  }
+
+  100% {
+    transform: scale(1);
+  }
 }
