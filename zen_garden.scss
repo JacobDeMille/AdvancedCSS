@@ -187,11 +187,8 @@ abbr {
 
 .explanation {
   @include MQ(768px) {
-
     grid-template-columns: auto auto auto auto;
     text-align: end;
-
-
 
     &::before {
       content: url(images/landscape-orange-1.jpg);
